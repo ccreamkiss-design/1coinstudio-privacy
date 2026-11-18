@@ -9,3 +9,9 @@
 
 이 저장소에는 개인정보처리방침 HTML 페이지(index.html)만 들어 있습니다.
 앱 소스 코드는 포함되어 있지 않습니다.
+
+## 게시 방식 (Publishing)
+
+이 페이지는 GitHub Pages(`gh-pages` 브랜치, 루트)로 게시됩니다. 저장소의 GitHub Pages 설정이
+`gh-pages` 브랜치를 소스로 사용하므로, 내용을 수정할 때는 `main`과 `gh-pages` 두 브랜치에
+같은 내용을 푸시해야 실제 페이지에 반영됩니다.
